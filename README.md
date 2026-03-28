@@ -1,5 +1,3 @@
--- https://discord.gg/WfTDsBPR9njpin for more cheap sources inter sources
-
 task.spawn(function()
 repeat task.wait() until game:IsLoaded()
 
